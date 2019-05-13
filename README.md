@@ -28,6 +28,8 @@ Other than the core programming skills and method of thinking, it is not importa
 
 ## Theory
 
+[This article gives a good idea of how data engineering and data science mix together.](https://medium.com/dailymotion/collaboration-between-data-engineers-data-analysts-and-data-scientists-97c00ab1211f)
+
 #### Statisitics
 
 A good understanding of the statistical concepts will be very useful. 
